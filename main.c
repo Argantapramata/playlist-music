@@ -130,7 +130,7 @@ int main() {
         printf("\n1. MUHAMMAD BAGUS SATRIO AJI 23081010258              |\n");
         printf("\n2. AKHMAD AZRUL ARSYADHANY   23081010281              |\n");
         printf("\n3. MUCHAMAD AKBAR DARMAWAN   23081010289              |\n");
-        printf("\n4. ARGANTA BISMA PRATAMA     23081010291              |\n");
+        printf("\n4. ARGANTA BISMA PRAMATA     23081010291              |\n");
         printf("\n5. MUHAMMAD TRIAJI SUPANDI   23081010307              |\n");
         printf("\n================= PLAYLIST MUSIC =======================\n");
 
